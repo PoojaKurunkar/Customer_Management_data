@@ -4,6 +4,9 @@ This project is a Customer Management CRUD (Create, Read, Update, Delete) applic
 
 
 #Features
+
+
+
 User login and signup
 Create a new customer
 Update an existing customer
@@ -13,11 +16,15 @@ Delete a customer
 
 
 #Technologies Used
+
+
 Backend: JSP, Servlets
 Frontend: HTML, CSS
 
 
 #Requirements
+
+
 Java JDK 8 or higher
 Apache Tomcat 9 or higher
 XAMP
@@ -26,5 +33,7 @@ Maven
 
 
 #Methods:
+
+
 GET (fetch all customers,for the login of user to get the email and password which are stored in the database)
 POST (create a new customer,sign up of the user)
